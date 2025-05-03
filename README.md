@@ -121,7 +121,6 @@ In Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, Nor
   - [Startup Lansing](http://startuplansing.org/join-slack/) in St.Louis
   - [Detroit Speakers in Tech](https://tinyurl.com/Join-DSIT-Slack) in Detroit area
 - MN - [Minnestar](https://minnestar.org/) - Must request access through an email to the org or existing user
-  - [MSPTech](https://join.slack.com/t/msptech/shared_invite/zt-2ovyjlbcz-P7trwDrsh5YoeEctsrtdjQ)
   - [MSP Tech](https://www.meetup.com/msp-tech/)
   - [PyMNtos](https://www.meetup.com/pymntos-twin-cities-python-user-group/)
   - [Twin Cities Chaos Engineering Community](http://twincities-chaosengr.slack.com)
